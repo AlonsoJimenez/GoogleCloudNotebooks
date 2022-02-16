@@ -14,7 +14,7 @@ cors = CORS(app, resources = {r"/*": {"origins" : "*"}})
 
 
 #funcion devuelve toda la informacion publica de la red de cargadores en el mapa
-@app.route('/getNetwork', methods = ['GET'])
+@app.route('/test', methods = ['GET'])
 def getNetwork():
     global chargers
     try:
