@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser Movimiento_1D.ipynb
+web: voila --port=$PORT --no-browser
