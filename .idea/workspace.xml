@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed3c1aaf-50eb-4398-9e44-01269569a255" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Notebooks/HolaMundo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notebooks/Server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/HolaMundo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/Movimiento_1D.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/Movimiento_1D.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/app.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/jupyter_config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FisicaComputacional" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -53,6 +57,7 @@
       <updated>1644610403404</updated>
       <workItem from="1644610407002" duration="2758000" />
       <workItem from="1645023428476" duration="51000" />
+      <workItem from="1645623629214" duration="32000" />
     </task>
     <servers />
   </component>
